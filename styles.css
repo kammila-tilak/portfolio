@@ -188,7 +188,7 @@ span{
 
 .about-img img{
     width: 25vw;
-    border-radius: 50%;
+    border-radius: 120px 40px;
 }
 
 .about-img img:hover{
@@ -196,6 +196,7 @@ span{
     background: var(--main-color);
     box-shadow: 0 0 2rem var(--main-color);
     transition: .5s ease;
+    border-radius: 50px 100px;
 }
 
 .heading{
